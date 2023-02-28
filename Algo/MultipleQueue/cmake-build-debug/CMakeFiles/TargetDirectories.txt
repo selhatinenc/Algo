@@ -1,0 +1,3 @@
+C:/Users/as_as/OneDrive/Masaüstü/Algo/MultipleQueue/cmake-build-debug/CMakeFiles/MultipleQueue.dir
+C:/Users/as_as/OneDrive/Masaüstü/Algo/MultipleQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/as_as/OneDrive/Masaüstü/Algo/MultipleQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir

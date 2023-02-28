@@ -1,0 +1,3 @@
+C:/Users/as_as/OneDrive/Masaüstü/Algo/tryst/cmake-build-debug/CMakeFiles/tryst.dir
+C:/Users/as_as/OneDrive/Masaüstü/Algo/tryst/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/as_as/OneDrive/Masaüstü/Algo/tryst/cmake-build-debug/CMakeFiles/rebuild_cache.dir

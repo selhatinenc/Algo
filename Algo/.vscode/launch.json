@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch trycatch_if_comparsion",
+            "request": "launch",
+            "mainClass": "trycatch_if_comparsion",
+            "projectName": "Algo_8bea59c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Worm",
+            "request": "launch",
+            "mainClass": "Worm",
+            "projectName": "Algo_8bea59c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch uglynumber",
+            "request": "launch",
+            "mainClass": "uglynumber",
+            "projectName": "Algo_8bea59c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch findtworectanglearea",
+            "request": "launch",
+            "mainClass": "findtworectanglearea",
+            "projectName": "Algo_8bea59c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch q1",
+            "request": "launch",
+            "mainClass": "q1",
+            "projectName": "Algo_8bea59c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch q2",
+            "request": "launch",
+            "mainClass": "q2",
+            "projectName": "Algo_8bea59c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch q3",
+            "request": "launch",
+            "mainClass": "q3",
+            "projectName": "Algo_8bea59c5"
+        },
+        {
+            "type": "java",
+            "name": "Launch q4",
+            "request": "launch",
+            "mainClass": "q4",
+            "projectName": "Algo_8bea59c5"
+        }
+    ]
+}
